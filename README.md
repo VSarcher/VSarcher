@@ -15,10 +15,10 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <p align="left">
-    <a href="https://github.com/VSarcher/arc-microservice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=aligolia-vue-ts-tailwind&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="aligolia-vue-ts-tailwind"></a>
-    <a href="https://github.com/VSarcher/CurrencyServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=chatbot-crypto-datawork&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="chatbot-crypto-datawork"></a>
-    <a href="https://github.com/VSarcher/djangoRESTServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=binance-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="binance-app"></a>
-    <a href="https://github.com/VSarcher/ Express_warmup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=cartet-figma-vue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
+    <a href="https://github.com/VSarcher/arc-microservice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VSarcher&repo=arc-microservice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="aligolia-vue-ts-tailwind"></a>
+    <a href="https://github.com/VSarcher/CurrencyServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VSarcher&repo=CurrencyServer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="chatbot-crypto-datawork"></a>
+    <a href="https://github.com/VSarcher/djangoRESTServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VSarcher&repo=djangoRESTServer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="binance-app"></a>
+    <a href="https://github.com/VSarcher/Express_warmup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VSarcher&repo=Express_warmup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
   </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
