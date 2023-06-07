@@ -35,13 +35,13 @@
     <a href="https://github.com/VSarcher/Express_warmup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VSarcher&repo=Express_warmup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
   </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=violetstar701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VSarcher&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h3>🔥 Streak Stats</h3>
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="violetstar701's streak" src="https://streak-stats.demolab.com/?user=violetstar701&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VSarcher's streak" src="https://streak-stats.demolab.com/?user=VSarcher&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
