@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hello EveryOne 👋
 
 
 <!-- **VSarcher/VSarcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -36,7 +36,7 @@
 
 
 <details open> 
-  <summary><h2>📘 My Latest Projects</h2></summary>
+  <summary><h3>📘 My Latest Projects</h3></summary>
     <p align="center">
       <a href="https://github.com/VSarcher?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/violetstar701?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
